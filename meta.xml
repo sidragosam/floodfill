@@ -1,0 +1,5 @@
+<meta>
+    <info author="skyLine" version="1.0.0" name="Flood Fill Pixels"/>
+
+    <script src="sourceC.lua" type="client"/>
+</meta>
